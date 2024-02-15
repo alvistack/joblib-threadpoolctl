@@ -1,0 +1,4 @@
+python3-threadpoolctl: copyright-without-copyright-notice
+python3-threadpoolctl: initial-upload-closes-no-bugs
+python3-threadpoolctl: no-manual-page
+python3-threadpoolctl: zero-byte-file-in-doc-directory
