@@ -21,3 +21,5 @@ dist
 
 # pytest
 .pytest_cache
+
+.pybuild/
