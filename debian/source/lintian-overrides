@@ -1,0 +1,5 @@
+python-threadpoolctl source: file-without-copyright-information
+python-threadpoolctl source: no-debian-changes
+python-threadpoolctl source: source-contains-prebuilt-windows-binary
+python-threadpoolctl source: source-is-missing
+python-threadpoolctl source: source-package-encodes-python-version
