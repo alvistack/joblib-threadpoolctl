@@ -1,0 +1,5 @@
+python-threadpoolctl (100:3.7.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/joblib/threadpoolctl/releases/tag/3.7.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Wed, 16 Sep 2026 10:50:47 +0800
